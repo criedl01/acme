@@ -1,0 +1,4 @@
+#!/bin/bash
+
+kill `pidof python`
+sleep infinity
